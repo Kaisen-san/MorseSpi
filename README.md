@@ -6,19 +6,19 @@ O projeto MorseSpi visa criar uma interface de comunicação entre agentes de mi
 
 Para que possam se comunicar, é necessário que ambos os agentes estejam conectados à internet. Com isso, o agente supervisor poderá ajudar a manter o agente portador informado sobre o andamento/perigos da missão.
 
-*Em palavras menos fictícias...*
+***Em palavras menos fictícias...***
 
 Na página web, uma caixa de texto possibilita ao usuário inserir uma mensagem e enviá-la ao Raspberry Pi. A mensagem pode conter qualquer letra e número contemplados pelo Código Morse Internacional. Além disso, a página web também apresenta um stream ao vivo da câmera do Raspberry Pi para monitoração. Ao enviar a mensagem, o Raspberry Pi irá reproduzi-la por meio de som (buzzer tocando/pausando) e luz (LED ligando/desligando), de acordo com a tradução para Código Morse, respeitando os intervalos padrões entre letras e palavras.
 
 Lembrando que, é preciso conectar-se a internet para habilitar a comunicação entre a página web e o Raspberry Pi, uma vez que ambos conectam-se ao servidor MQTT test.mosquitto.org.
 
 ## Materiais Utilizados
-- Raspberry Pi 3B
-- PiCamera
-- LED Vermelho
-- Buzzer
-- Resistor 1kΩ
-- Resistor 330Ω
+- 1 - Raspberry Pi 3B
+- 1 - PiCamera
+- 1 - LED Vermelho
+- 1 - Buzzer
+- 1 - Resistor 1kΩ
+- 1 - Resistor 330Ω
 
 ## Instruções
 > TODO
