@@ -13,6 +13,7 @@ Na página web, uma caixa de texto possibilita ao usuário inserir uma mensagem 
 Lembrando que, é preciso conectar-se a internet para habilitar a comunicação entre a página web e o Raspberry Pi, uma vez que ambos conectam-se ao servidor MQTT test.mosquitto.org.
 
 ## Materiais Utilizados
+
 - 1 - Raspberry Pi 3B
 - 1 - PiCamera
 - 1 - LED Vermelho
@@ -21,7 +22,13 @@ Lembrando que, é preciso conectar-se a internet para habilitar a comunicação 
 - 1 - Resistor 330Ω
 
 ## Instruções
+
 > TODO
+
+## Referências
+
+- [Morse Code](https://en.wikipedia.org/wiki/Morse_code)
+- [Stream PiCamera](https://desertbot.io/blog/how-to-stream-the-picamera)
 
 ## Integrantes
 
